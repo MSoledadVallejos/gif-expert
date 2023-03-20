@@ -39,7 +39,8 @@ export const AddCategory = ({ onNewCategory }) => {
                 variant="filled"
                 className='input'
                 type="text"
-                placeholder="Buscar gifs"
+                color="secondary"
+                focused
             />
 
 

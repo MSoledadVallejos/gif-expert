@@ -3,13 +3,28 @@
 }
 
 body {
-    padding: 60px;
-    /* background-color: rgb(234, 234, 234); */
+    padding: 0px 60px 30px;
+}
 
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
 }
 
 .input {
-    width: 40%;
+    width: 50%;
+}
+
+
+h1 {
+    background-color: black;
+    color: white;
+    padding-top: 4rem;
+    text-align: center;
+    padding-bottom: 4rem;
+    font-family: fantasy;
+    font-size: 4rem;
 }
 
 h2 {

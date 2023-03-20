@@ -4,7 +4,7 @@ import { AddCategory, GifGrid } from './components'; //aplico archivos de barril
 
 export const GitExpertApp = () => {
 
-    const [categories, setCategories] = useState(['Friends']);
+    const [categories, setCategories] = useState(['Dragon Ball']);
 
     const onAddCategory = (newCategory) => { // creo la funcion y el parametro se lo paso en el otro componente como "valorInput"
 
